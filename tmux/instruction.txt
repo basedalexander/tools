@@ -1,0 +1,4 @@
+1. put under ~/.tmux.conf
+2. apply config with tmux source-file ~/.tmux.conf
+3. split horizontally ctrl + B + %
+4. split vertically ctrl + B + "
